@@ -13,7 +13,6 @@ import Typed from "react-typed"
               loop
             />
                
-        <a href= "#" className = "btn-main-offer"> Contact me</a>
         </div>
       </div>
     );
